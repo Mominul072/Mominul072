@@ -1,18 +1,75 @@
-# 💫 About Me:
-I am a passionate Frontend Developer currently working at Shunno IT, where I create modern, responsive, and high-performance web applications.<br>I specialize in building exceptional user interfaces using React.js, Next.js, and JavaScript (ES6+). I love turning complex problems into clean, intuitive, and pixel-perfect digital experiences.
+<div align="center">
 
+# Hi, I'm Mominul Anik 👋
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Anik989/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mominulanik/) 
+### Frontend Developer | React & Next.js Specialist
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mominul072&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mominul072&theme=dark&hide_border=false)<br/>
+*Crafting beautiful, responsive, and high-performance web experiences at Shunno IT*
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am a passionate **Frontend Developer** currently working at **Shunno IT**. I specialize in building modern, fast, and user-friendly web applications using **React.js**, **Next.js**, and **JavaScript**.
+
+I love turning complex problems into clean, intuitive, and pixel-perfect digital experiences.
+
+**What I bring to the table:**
+- ⚡ High-performance and scalable web applications
+- 🎨 Pixel-perfect responsive & accessible UIs
+- 🧩 Clean, reusable, and maintainable code
+- 🚀 SEO-friendly applications with Next.js
+- 💡 Strong focus on user experience and modern design
+
+---
+
+## 🐍 My GitHub Contributions as Snake Game!
+
+![GitHub Contributions Snake](https://github-readme-snake.vercel.app/?theme=dark&username=Mominul072)
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mominulanik/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Anik989/)
+
+---
+
+## 💻 Tech Stack & Tools
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats & Activity
+
+![](https://github-readme-stats.shion.dev/api?username=Mominul072&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://streak-stats.demolab.com/?user=Mominul072&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mominul072&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mominul072&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mominul072&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile!** ✨
+
+*Always learning • Open to opportunities*
+
+</div>
