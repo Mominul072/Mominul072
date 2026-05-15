@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Mominul Anik 👋
+# <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Mominul Islam</h1>
 
 ### Frontend Developer | React & Next.js Specialist
 
@@ -12,7 +12,7 @@
 
 ## 🐍 My GitHub Contributions as Snake Game!
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -58,7 +58,7 @@ I love turning complex problems into clean, intuitive, and pixel-perfect digital
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Mominul072">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mominul072&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Mominul072's GitHub Stats" />
   </a>
@@ -66,14 +66,14 @@ I love turning complex problems into clean, intuitive, and pixel-perfect digital
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mominul072&theme=radical&radius=10" alt="Mominul072's Activity Graph" />
-</p>
+</div>
 
 ---
 
 ## 👁️ Profile Views
-
+<div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=Mominul072&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
-
+</div>
 ---
 
 <div align="center">
