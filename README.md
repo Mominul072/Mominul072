@@ -54,9 +54,15 @@ I love turning complex problems into clean, intuitive, and pixel-perfect digital
 
 ## 📊 GitHub Stats & Activity
 
-![](https://github-readme-stats.shion.dev/api?username=Mominul072&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=Mominul072&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mominul072&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/Mominul072">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mominul072&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Mominul072's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Mominul072&theme=radical&hide_border=true&cache_seconds=86400" alt="Mominul072's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Mominul072&theme=radical&radius=10" alt="Mominul072's Activity Graph" />
+</p>
 
 ---
 
