@@ -10,6 +10,16 @@
 
 ---
 
+## 🐍 My GitHub Contributions as Snake Game!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+---
+
 ## 👨‍💻 About Me
 
 I am a passionate **Frontend Developer** currently working at **Shunno IT**. I specialize in building modern, fast, and user-friendly web applications using **React.js**, **Next.js**, and **JavaScript**.
@@ -22,12 +32,6 @@ I love turning complex problems into clean, intuitive, and pixel-perfect digital
 - 🧩 Clean, reusable, and maintainable code
 - 🚀 SEO-friendly applications with Next.js
 - 💡 Strong focus on user experience and modern design
-
----
-
-## 🐍 My GitHub Contributions as Snake Game!
-
-![GitHub Contributions Snake](https://github-readme-snake.vercel.app/?theme=dark&username=Mominul072)
 
 ---
 
