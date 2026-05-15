@@ -71,9 +71,9 @@ I love turning complex problems into clean, intuitive, and pixel-perfect digital
 ---
 
 ## 👁️ Profile Views
-<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Mominul072&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
-</div>
+
 ---
 
 <div align="center">
