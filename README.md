@@ -1,10 +1,13 @@
-<div align="center">
+
+'<div align="center">
 
 # <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Mominul Islam</h1>
 
-### Frontend Developer | React & Next.js Specialist
+### Junior Software Engineer
 
-*Crafting beautiful, responsive, and high-performance web experiences at Shunno IT*
+🚀 Passionate about building modern web applications with **React.js, Next.js, NestJS, Express.js, and MongoDB**
+
+💻 Currently working at **Shunno IT** and focusing on creating scalable, user-friendly, and efficient software solutions.
 
 </div>
 
@@ -22,16 +25,19 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Frontend Developer** currently working at **Shunno IT**. I specialize in building modern, fast, and user-friendly web applications using **React.js**, **Next.js**, and **JavaScript**.
+I am a passionate **Junior Software Engineer** currently working at **Shunno IT**. I develop modern, scalable, and user-friendly web applications using both frontend and backend technologies, including **React.js**, **Next.js**, **NestJS**, **Express.js**, and **MongoDB**.
 
-I love turning complex problems into clean, intuitive, and pixel-perfect digital experiences.
+I enjoy solving real-world problems through clean architecture, efficient code, and intuitive user experiences.
 
 **What I bring to the table:**
-- ⚡ High-performance and scalable web applications
-- 🎨 Pixel-perfect responsive & accessible UIs
-- 🧩 Clean, reusable, and maintainable code
-- 🚀 SEO-friendly applications with Next.js
-- 💡 Strong focus on user experience and modern design
+- ⚡ Development of scalable and high-performance web applications
+- 🎨 Responsive, accessible, and user-friendly interfaces
+- 🧩 Clean, reusable, and maintainable code practices
+- 🚀 Full-stack development with React, Next.js, NestJS, and Express.js
+- 🔗 REST API integration and backend development
+- 📊 Experience with business, inventory, billing, and management systems
+- 💡 Strong focus on software quality, performance, and user experience
+- 🌱 Continuous learning and adaptation to modern technologies
 
 ---
 
